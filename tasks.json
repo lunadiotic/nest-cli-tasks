@@ -1,0 +1,23 @@
+[
+  { "id": 1, "content": "Membuat rencana bisnis untuk startup baru" },
+  { "id": 2, "content": "Mempersiapkan presentasi untuk rapat bisnis" },
+  { "id": 3, "content": "Menulis artikel blog tentang teknologi terbaru" },
+  { "id": 4, "content": "Melakukan riset pasar untuk produk baru" },
+  { "id": 5, "content": "Mendesain UI/UX untuk aplikasi mobile" },
+  { "id": 6, "content": "Mengembangkan website e-commerce" },
+  { "id": 7, "content": "Mengatur strategi SEO untuk website bisnis" },
+  { "id": 8, "content": "Mengelola kampanye iklan di media sosial" },
+  {
+    "id": 9,
+    "content": "Menganalisis data penjualan untuk meningkatkan performa bisnis"
+  },
+  { "id": 10, "content": "Membuat video promosi produk untuk media sosial" },
+  {
+    "id": 11,
+    "content": "Mengembangkan aplikasi mobile dengan teknologi terbaru"
+  },
+  { "id": 12, "content": "Mendesain produk fashion untuk koleksi musim depan" },
+  { "id": 13, "content": "Mengembangkan website edukasi online" },
+  { "id": 14, "content": "Mempromosikan event musik melalui media sosial" },
+  { "id": 15, "content": "Mengelola proyek pembangunan infrastruktur kota" }
+]
