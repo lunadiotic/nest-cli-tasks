@@ -62,5 +62,9 @@
   {
     "id": 16,
     "content": "Belajar Nest.js"
+  },
+  {
+    "id": 17,
+    "content": "Belajar DI Container"
   }
 ]

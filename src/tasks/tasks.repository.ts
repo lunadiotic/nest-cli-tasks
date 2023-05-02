@@ -1,6 +1,7 @@
-/* eslint-disable prettier/prettier */
+import { Injectable } from '@nestjs/common';
 import { readFile, writeFile } from 'fs/promises';
 
+@Injectable()
 export class TasksRepository {
   async findAll(): Promise<any> {
     const data = await readFile('tasks.json', 'utf-8');
